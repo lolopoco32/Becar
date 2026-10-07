@@ -1,2 +1,2 @@
 # Becar
-Player ALSA hibrid FLAC/FFmpeg for Linux
+Hybrid ALSA audio player for FLAC / FFmpeg
