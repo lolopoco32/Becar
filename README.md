@@ -24,4 +24,4 @@ Decoders are loaded into RAM only when needed, to keep memory usage low:
 | FLAC   | `flac` + `aplay`   |
 | Other  | `ffmpeg` + `aplay` |
 
-<img width="1110" height="980" alt="Screenshot_20261017_213643" src="https://github.com/user-attachments/assets/311a3f23-59aa-48b6-a330-fefba751fd2b" />
+<img width="1110" height="1017" alt="Screenshot_20261101_084531" src="https://github.com/user-attachments/assets/1e15f4fd-d413-4484-80dc-9be8b744f490" />
